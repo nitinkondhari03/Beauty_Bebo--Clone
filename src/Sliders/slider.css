@@ -1,0 +1,28 @@
+
+  .active {
+    display: inline-block;
+  }
+  
+  .inactive {
+    display: none;
+  }
+  
+  .slides {
+    height: var(--heights);
+    width: var(--widths);
+    
+  }
+  
+  .slide-image {
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+  } 
+  
+
+
+ 
+
+
+
+  
