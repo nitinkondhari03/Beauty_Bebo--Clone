@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Beauty_Bebo--Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Beauty Bebo is India's fastest-growing online retail store for makeup, skin care, hair care, personal care, mom and baby care, fragrance, and Ayurveda products.
 
 ## Available Scripts
 
